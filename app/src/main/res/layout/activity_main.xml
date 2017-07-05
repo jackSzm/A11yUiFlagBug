@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools">
+
+
+  <jsz.a11yuiflag.CustomView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:contentDescription="This is my Frame Layout"
+    tools:context="jsz.a11yuiflag.MainActivity" />
+
+</merge>
+
